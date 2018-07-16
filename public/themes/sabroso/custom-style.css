@@ -1,0 +1,133 @@
+/* File for inline styles */
+/* Customizer UI CSS */
+
+#customize-theme-controls .customize-pane-child.accordion-section-content {
+	padding: 12px 12px 40px !important;
+}
+
+.customize-control select,
+.customize-control input[type=text]:not(.wp-color-picker),
+.customize-control input[type=number],
+.customize-control-image .remove-button,
+.customize-control-image .upload-button,
+.customize-control-image .default-button {
+	width: 100% !important;
+}
+
+.customize-control-image .remove-button,
+.customize-control-image .default-button {
+	margin-bottom: 7px !important;
+}
+
+.customize-control-site_icon .remove-button,
+.customize-control-site_icon .upload-button,
+.customize-control-site_icon .default-button {
+	width: 100% !important;
+}
+
+.customize-control-image .actions {
+	margin-bottom: 0 !important;
+}
+
+li[id*="customize-control-infinity_social"] i {
+	height: 25px;
+	width: 25px;
+	text-align: center;
+	line-height: 25px;
+	background: #eee;
+	color: #555;
+	margin-right: 7px;
+}
+
+.control-section-default .customize-control {
+	position: relative;
+    padding: 15px;
+    margin-bottom: 0;
+    background: #fff;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    width: 88%;
+}
+
+#customize-control-custom_css {	
+	padding: 0!important;
+}
+
+.if-tabs-title {
+	display: inline-block;
+	position: absolute;
+	top: -23px;
+	left: -1px;
+	padding: 5px 10px 0;
+	margin: 0;
+	background: #fff;
+	border-top: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+}
+
+#customize-control-infinity_general-effect,
+#customize-control-infinity_general-full_post,
+#customize-control-infinity_header-boxed,
+#customize-control-infinity_header-logo,
+#customize-control-infinity_carousel-style,
+#customize-control-infinity_carousel-category,
+#customize-control-infinity_carousel-info_title,
+#customize-control-infinity_content-boxed,
+#customize-control-infinity_content-post_header,
+#customize-control-infinity_content-post_like,
+#customize-control-infinity_content-breadcrumb,
+#customize-control-infinity_footer-boxed,
+#customize-control-infinity_social-facebook,
+#customize-control-infinity_google_analytics-code,
+#customize-control-show_on_front,
+#customize-control-blogname,
+#customize-control-infinity_header_color-tb_bg,
+#customize-control-infinity_header_color-tb_sub_text,
+#customize-control-infinity_header_color-mm_bg,
+#customize-control-infinity_header_color-mm_sub_text,
+#customize-control-infinity_carousel_color-title,
+#customize-control-infinity_carousel_color-read_more,
+#customize-control-infinity_general_color-body_bg,
+#customize-control-infinity_general_color-read_more,
+#customize-control-infinity_general_color-btn_info,
+#customize-control-infinity_general_color-main_btn,
+#customize-control-infinity_footer_color-widget_bg,
+#customize-control-infinity_footer_color-copyright_bg,
+#customize-control-infinity_footer_color-social_text {
+	margin-top: 45px !important;
+	border-top: 1px solid #ddd;
+}
+
+#customize-control-infinity_general-author_layout,
+#customize-control-infinity_general-bg_att,
+#customize-control-infinity_header-bg_att,
+#customize-control-infinity_header-mini_logo,
+#customize-control-infinity_carousel-navigation,
+#customize-control-infinity_carousel-post_window,
+#customize-control-infinity_carousel-info_text,
+#customize-control-infinity_content-pagination,
+#customize-control-infinity_content-post_read_more,
+#customize-control-infinity_content-reddit_share,
+#customize-control-infinity_content-page_comment_area,
+#customize-control-infinity_footer-copyright,
+#customize-control-infinity_social-envelope,
+#customize-control-infinity_google_analytics-code,
+#customize-control-show_on_front,
+#customize-control-site_icon,
+#customize-control-infinity_header_color-tb_text_hv,
+#customize-control-infinity_header_color-tb_sub_border,
+#customize-control-infinity_header_color-mm_text_hv,
+#customize-control-infinity_header_color-mm_sub_border,
+#customize-control-infinity_carousel_color-text_hv,
+#customize-control-infinity_carousel_color-read_more_hv,
+#customize-control-infinity_general_color-alt,
+#customize-control-infinity_general_color-read_more_border,
+#customize-control-infinity_general_color-btn_info_bg,
+#customize-control-infinity_general_color-main_btn_bg_hv,
+#customize-control-infinity_footer_color-widget_border,
+#customize-control-infinity_footer_color-backtotop_hv,
+#customize-control-infinity_footer_color-social_bg_hv {
+	border-bottom:  1px solid #ddd;
+	padding-bottom: 25px;
+}
